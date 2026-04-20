@@ -12,6 +12,7 @@ export default function Main() {
   return (
     <>
       <Profile />
+
       <div className={css.container}>
         <Language />
         <HardSkill />
