@@ -1,8 +1,8 @@
 {
-  "name": "cv-front-end",
+  "name": "cv-backend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yevhenii-sulim.github.io/cv-front-end/",
+  "homepage": "https://yevhenii-sulim.github.io/cv-backend/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
