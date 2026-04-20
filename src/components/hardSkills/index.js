@@ -1,1 +1,1 @@
-export {default} from './hardSkill.js';
+export {default} from './hardSkill';

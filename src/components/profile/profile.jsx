@@ -7,7 +7,7 @@ export default function Profile() {
         Evgeniy
         <br />
         Sulim <br />
-        <span className={css.special}>front-end developer</span>
+        <span className={css.special}>back-end developer</span>
       </h1>
       <div className={css.img}>
         <img src='/img.png' alt='User profile' />

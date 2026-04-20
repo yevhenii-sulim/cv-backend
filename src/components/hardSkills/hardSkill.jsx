@@ -1,18 +1,15 @@
 import css from './hardSkill.module.css';
+
 const skills = [
-  'HTML',
-  'CSS',
   'JavaScript',
-  'TS',
-  'React',
-  'React native',
-  'Next',
+  'TypeScript',
+  'Node',
+  'Express',
+  'Nest',
   'REST API',
-  'Redux/toolkit, redux/thunk',
-  'Zustand',
-  'Material UI',
+  'PostgreSQL',
+  'Drizzle ORM',
   'OOP principles and patterns',
-  'SASS',
   'Git',
 ];
 

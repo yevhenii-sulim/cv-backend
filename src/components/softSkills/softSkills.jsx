@@ -4,7 +4,6 @@ const skills = [
   'Hardworking',
   'Quick learning skills',
   'Individually and in a team',
-  'Teamwork',
   'Strong analytical thinking',
 ];
 
