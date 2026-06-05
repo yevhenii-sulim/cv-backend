@@ -20,12 +20,12 @@ const projects = [
 
 export default function ProjectList() {
   return (
-    <div className='box'>
+    <div className={`box ${css.projects}`}>
       <h2 className='title-box'>Project experience</h2>
       <ul>
         {projects.map(({title, link, text}) => (
           <li className={css.list}>
-            <h3 class={css.project}>{title}</h3>
+            <h3 className={css.project}>{title}</h3>
             <a href='link' className='text'>
               {link}
             </a>
